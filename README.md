@@ -51,3 +51,4 @@ The CSV must contain these columns:
 - **Frontend:** Streamlit, Plotly
 - **ML:** scikit-learn, XGBoost, LightGBM, CatBoost
 - **Data:** pandas, NumPy, SciPy
+Dataset source: https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting
